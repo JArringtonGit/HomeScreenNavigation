@@ -2,6 +2,7 @@ import React from "react";
 import { View, Text, StyleSheet, FlatList} from "react-native";
 
 const ListScreen = () => {
+  
     const friends = [
         {name: 'Shukaku', age: '1000'},
         {name: 'Matabi', age: '2000'},
